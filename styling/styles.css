@@ -1,0 +1,32 @@
+img {
+  max-width: 75%;
+}
+.contact {
+  padding: 10px;
+  color: brown;
+  text-decoration: none;
+  background-color: rgb(214, 137, 152);
+  border: 2px solid brown;
+}
+.gallery {
+  padding: 10px;
+  color: brown;
+  text-decoration: none;
+  background-color: rgb(205, 123, 85);
+  border: 2px solid brown;
+}
+.home {
+  padding: 10px;
+  color: rgb(165, 42, 52);
+  text-decoration: none;
+  background-color: rgb(191, 119, 85);
+  border: 2px solid brown;
+}
+h2 {
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke: black;
+  color: brown;
+}
+.contact-us {
+  margin-top: 40px;
+}
